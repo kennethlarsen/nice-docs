@@ -22,7 +22,7 @@ const run = async () => {
 clear();
 console.log(
   chalk.yellow(
-    figlet.textSync('ember-docbox', { horizontalLayout: 'full' })
+    figlet.textSync('community docs', { horizontalLayout: 'full' })
   )
 );
 
